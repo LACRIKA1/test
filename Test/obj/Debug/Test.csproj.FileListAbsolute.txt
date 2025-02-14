@@ -1,0 +1,7 @@
+C:\Users\LACRIKA\Desktop\c#\project\Test\Test\bin\Debug\Test.exe.config
+C:\Users\LACRIKA\Desktop\c#\project\Test\Test\bin\Debug\Test.exe
+C:\Users\LACRIKA\Desktop\c#\project\Test\Test\bin\Debug\Test.pdb
+C:\Users\LACRIKA\Desktop\c#\project\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\LACRIKA\Desktop\c#\project\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\LACRIKA\Desktop\c#\project\Test\Test\obj\Debug\Test.exe
+C:\Users\LACRIKA\Desktop\c#\project\Test\Test\obj\Debug\Test.pdb
